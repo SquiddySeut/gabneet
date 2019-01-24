@@ -14,7 +14,7 @@ client.on('message', message => {
         //message.reply("how long do you want us to talk?")
         message.channel.send("I want games............");
         message.channel.send("Anyone have foood?");
-        cs=1;
+        //cs=1;
     }    
 });
 
